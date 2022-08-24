@@ -1,4 +1,3 @@
-## First year, summer 2021, Programming 2
 **Annotation:** Game with characters from the animated movie "Tom & Jerry". The user plays as a mouse that jumps between compartments and simultaneously shoots cats.
 
 # Documentation
